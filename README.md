@@ -84,3 +84,9 @@ Encargado de realizar la petición HTTP a la API, recibir la respuesta JSON y ex
 `calculoDivisa(double tasa, String divisaBase, String divisaDestino)`
 
 Solicita el monto a convertir, aplica la fórmula de cálculo `(valor * tasa)`, formatea el resultado a dos decimales y lo imprime en la consola.
+
+## 📹 Demostración de la Aplicación
+
+Este GIF muestra el flujo de trabajo del conversor de divisas.
+
+![Demostración del menú del conversor](assets/demo.gif)
